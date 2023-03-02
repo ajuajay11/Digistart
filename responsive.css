@@ -111,9 +111,9 @@
     .vid-left-one{
         position: relative;
     }
-    .head-line{
-        top: 90px;
-        left: -170px !important;
+    .head-line {
+        top: 79px;
+        left: -189px !important;
     }
     .vid-right{
         padding: 30px 0px;
@@ -131,6 +131,9 @@
         display: flex;
         flex-direction: column !important;
         gap: 20px !important;
+      }
+      .see-more-section{
+        justify-content: center !important;
       }
       .see-more-section .line{
         display: none;
