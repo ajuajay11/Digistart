@@ -42,7 +42,7 @@
         font-size: 14px!important;
     }
     .detail1 p {
-        /* text-align: justify; */
+        text-align: justify;
         font-size: 10px!important;
         color: #c5c5c5;
         padding-right: 0px!important;
