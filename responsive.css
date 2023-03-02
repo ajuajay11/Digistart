@@ -115,12 +115,15 @@
         top: 79px;
         left: -189px !important;
     }
+    .head-line h3{
+        font-size: 30px !important;
+    }
     .vid-right{
         padding: 30px 0px;
     }
     .vid-r-bttn p{
         padding-top: 10px !important;
-        font-size: 18px !important;
+        font-size: 16px !important;
         text-align: justify; 
     }
 
