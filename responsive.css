@@ -47,6 +47,9 @@
         color: #c5c5c5;
         padding-right: 0px!important;
     }
+    .details{
+        gap:12px !important;
+    }
     .h-details2{
         left: 12%!important;
     }
